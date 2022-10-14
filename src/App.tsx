@@ -6,6 +6,7 @@
  * 5º npx tailwindcss init -p (-p cria o cria tambem o arquivo de configuração do postcss)
  * 6º npx sb init --builder @storybook/builder-vite --use-npm
  * 7º npm run storybook (executa o storybook)
+ * 8º npm install --save clsx
  */
 
 import "./styles/global.css";
