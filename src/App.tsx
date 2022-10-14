@@ -7,6 +7,7 @@
  * 6º npx sb init --builder @storybook/builder-vite --use-npm
  * 7º npm run storybook (executa o storybook)
  * 8º npm install --save clsx
+ * $ npm install @radix-ui/react-slot
  */
 
 import "./styles/global.css";
