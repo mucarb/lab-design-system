@@ -8,6 +8,7 @@
  * 7º npm run storybook (executa o storybook)
  * 8º npm install --save clsx
  * $ npm install @radix-ui/react-slot
+ * 10º npm install phosphor-react
  */
 
 import "./styles/global.css";
