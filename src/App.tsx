@@ -9,6 +9,7 @@
  * 8º npm install --save clsx
  * $ npm install @radix-ui/react-slot
  * 10º npm install phosphor-react
+ * 11º npm install @radix-ui/react-checkbox
  */
 
 import "./styles/global.css";
