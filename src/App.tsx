@@ -10,6 +10,7 @@
  * $ npm install @radix-ui/react-slot
  * 10º npm install phosphor-react
  * 11º npm install @radix-ui/react-checkbox
+ * 12º npm install @storybook/storybook-deployer --save-dev
  */
 
 import "./styles/global.css";
