@@ -11,6 +11,7 @@
  * 10º npm install phosphor-react
  * 11º npm install @radix-ui/react-checkbox
  * 12º npm install @storybook/storybook-deployer --save-dev
+ * 13º npm install @storybook/addon-a11y
  */
 
 import "./styles/global.css";
